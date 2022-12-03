@@ -1,0 +1,35 @@
+<body leftmargin="67" topmargin="67" marginwidth="40" marginheight="40">
+<p class="me">¿QUE SERVICIOS GARANTIZAMOS?</p>
+<p class="meca">Como sabemos, debido a la naturaleza del diésel, el trabajo que realiza este tipo de motore es mayor. Un motor diésel puede realizar hasta 3 veces más trabajo que uno de gasolina. Por esta razón hay una presión y desgaste mayor en varios componentes.</p>
+<h2 class="ni">JADDOM MOTOR´S, ofrece servicios de:</h2>
+<img style="float:right; margin:10px;" src="file:///C|/Users/jswil/Pictures/Saved Pictures/M.jpg" width="176" height="155" /> <a href="file:///C:/Users/Natalia/Pictures/PAGINAS/pa2/pag1.html" class="nav-link">-Mantenimiento o afinación de motores</a><br>
+  <a href="file:///C:/Users/Natalia/Pictures/PAGINAS/pa2/pag2.html" class="nav-link">-Mantenimiento de frenos</a><br>
+  <a href="file:///C:/Users/Natalia/Pictures/PAGINAS/pa2/pag3.html" class="nav-link">-Diagnostico de motor</a>
+  .meca {
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.me {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-weight: bold;
+    font-size: 36px;
+    text-align: center;
+}
+.ni {
+    font-family: "Times New Roman", Times, serif;
+}
+.cos {
+    text-align: left;
+}
+.t {
+    font-size: 14px;
+}
+.ty {
+    font-size: 10px;
+}
+.tyl {
+    font-size: 9px;
+}
+
+
+

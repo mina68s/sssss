@@ -1,0 +1,97 @@
+body {
+    font-family: Lucida Bright;
+    background: #dcdcdc;
+    margin: 0;
+    text-align: center;
+}
+
+header {
+    display: flex;
+    height: 70px;
+    background-color: white;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo img {
+    height: 100px;
+    margin-right: 100px;
+}
+
+nav a {
+    font-weight: 600;
+    padding-right: 30px;
+    text-align: -webkit-match-parent;
+}
+
+nav a:hover {
+    color: #84A5B8;
+    vertical-align: baseline;
+    font: inherit;
+}
+
+
+/*{
+	text-decoration: none;
+	color: black ;
+}*/
+
+.b img {
+    width: 1350px;
+    height: 700px;
+}
+
+h1 {
+    display: inline-block;
+    position: relative;
+    font-family: Optima;
+    font-size: 4vw;
+}
+
+h1::after,
+h1::before {
+    content: "";
+    position: absolute;
+    width: 150px;
+    height: 3px;
+    background-color: black;
+    top: 0.6em;
+}
+
+h1::after {
+    right: -140px;
+}
+
+h1::before {
+    left: -140px;
+}
+
+p {
+    font-size: 2vw;
+    text-align: justify;
+}
+
+.footer {
+    background-color: #515151;
+}
+
+.texto1 {
+    display: flex;
+    margin-right: 50px;
+    margin-left: 50px;
+    justify-content: left;
+    font-family: Sans-Serif;
+}
+
+.foto img {
+    font-style: flat, left;
+    padding-right: 10px;
+    width: 500px;
+    height: 300px;
+}
